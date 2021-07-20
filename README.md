@@ -1,3 +1,3 @@
-# Sistema-Supervisorio
+# FrontEnd
 
-Repositório de um Sistema Supervisório realizado para a escola SENAI Suiço-Brasileira.
+Sistema supervisório para gerenciamento e controle do AGV.
